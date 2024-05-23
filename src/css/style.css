@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+}
+
+h2 {
+  margin: 0;
+}
+
+.is-hidden {
+  display: none !important;
+}
+
+.breed-select {
+  margin-bottom: 10px;
+}
+
+.select-group {
+  width: 400px;
+}
+
+.cat-info {
+  display: flex;
+  gap: 20px;
+}
+
+.box span {
+  font-weight: bold;
+}
+
+img {
+  width: 400px;
+}
+
+.loader {
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.box > p:first-of-type {
+  text-align: justify;
+}
